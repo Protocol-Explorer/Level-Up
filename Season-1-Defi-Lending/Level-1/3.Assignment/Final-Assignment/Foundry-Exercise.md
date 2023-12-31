@@ -173,25 +173,30 @@ Passing private keys directly in the terminal from `anvil` is fine. **This is no
 Luckily Foundry came with an update and now we can encrypt our keys in Foundry!
 Check this [video]('https://www.youtube.com/watch?v=VQe7cIpaE54') where Patrick explains how to use `cast`.
 
-We will see how we can use the `cast` method in the next level.
+Below you will find a step-by-step approach on how to use `cast`.
+Cast command to import your private-key (or create an account)
+```bash
+cast wallet import <ACCOUNT-NAME> --interactive
+```
+Example command
+```bash
+cast wallet import defaultKey --interactive
+```
+You will be prompted for your private keys and a password to secure your account.
 
-For this level we're going to deploy to Scroll Sepolia using the forge create method.
+**Before you pass them**, make sure no one is watching and it's also **not** recommended to this in the terminal of your code-editor, but your pc's terminal.
 
-This is just to get you up and running and pacing you in the right speed.
-
-Also, you can't use the above method with forge create. You can only use it with scripts and scripts will be introduced in the next level.
-
-`forge create` will require you to pass your private keys from your MetaMask wallet to the terminal.
-
-So when do you use this? Well perhaps in a hackathon or when you want to try out something quick. 
-
-Honestly, you will see how easy it is to use scripts, but just to show you what your options are, we're showcasing this at level 1.
+If you run the following command, you should see a list of all the accounts available.
+```bash
+cast wallet list
+```
 
 The command you can run to deploy using `forge create` :
 ```bash
-forge create <CONTRACTNAME> --rpc-url <NETWORK> --interactive
+forge create <CONTRACTNAME> --rpc-url <NETWORK> --account <ACCOUNT-NAME> --interactive
 ```
-You will be prompted to pass your private keys.
+You will be prompted to enter your password for your account.
+
 Boom deployed.
 Note your contract address, you will need it to verify in a bit.
 Head over to [Scroll Scan](https://sepolia.scrollscan.dev/) and look up your contract to check out your deployment.
@@ -222,6 +227,7 @@ Awesome, we have added the Scroll-Testnet and our account is funded. Let's use t
 [Export your private keys]('https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key') from your MetaMask, you will need this later.
 
 Run the following command, pick a name for your account. I'll call mine `testuser`.
+
 ```bash
 cast wallet import testuser --interactive
 ```
