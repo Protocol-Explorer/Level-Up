@@ -8,15 +8,15 @@ Let's get started! 💪
 ## High level structure
 **1. START WITH THE FUNDAMENTALS(CLICK BELOW)**
 
-[<img alt="start here" width="250px" src="../images/defi_fundamentals.png" />](../Level-1/1.DeFi_Guide/README.md)
+[<img alt="start here" width="250px" src="../images/defi_fundamentals.png" />](./Assignment/DeFi_Guide.md)
 
 **2. MOVE ON TO THE SYNTAX**
 
-[<img alt="start here" width="250px" src="../images/syntax.png" />](../Level-1/2.Syntax/ReadMe.md)
+[<img alt="start here" width="250px" src="../images/syntax.png" />](./Assignment/Syntax.md)
 
 **3. FINISH WITH THE CONTRACTS**
 
-[<img alt="start here" width="250px" src="../images/contracts.png" />](../Level-1/3.Assignment/Readme.md)
+[<img alt="start here" width="250px" src="../images/contracts.png" />](./Assignment/Readme.md)
 
 1. DeFi Fundamentals: Begin your journey in the readings directory. Here, you'll lay the groundwork by understanding the core concepts of DeFi lending.
 
