@@ -32,7 +32,7 @@ The Basic Lending Contract is designed to facilitate four core functionalities: 
 - **Prepare Your Workspace**: Create a New Folder called lending_level2
 - **Initialize a New Project**: Start with a clean slate using `forge init`.
 
-If you need help setting up your foundry project or you want to go over the commands of deploying, check out [Foundry-Exercise](../Final-Assignment/Foundry-Exercise.md)
+If you need help setting up your foundry project or you want to go over the commands of deploying, check out [Foundry-Exercise](./Foundry-Exercise.md)
 
 ### Step 2: Write the Contract
 - **User Balances and Borrowed Amounts**: Track ETH deposits, withdrawals, and borrowed amounts.
