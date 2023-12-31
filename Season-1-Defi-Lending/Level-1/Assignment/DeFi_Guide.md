@@ -28,6 +28,6 @@ This article [The Evolution of DeFi Across Four Financial Primitives](https://me
 
 **MOVE ON TO THE SYNTAX**
 
-[<img alt="start here" width="250px" src="../../images/syntax.png" />](../2.Syntax/ReadMe.md)
+[<img alt="start here" width="250px" src="../../images/syntax.png" />](./Syntax.md)
 
 

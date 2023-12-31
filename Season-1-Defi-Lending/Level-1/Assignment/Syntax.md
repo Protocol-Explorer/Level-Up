@@ -117,5 +117,5 @@ Essential for code documentation, aiding in readability and maintenance.
 ```
 **TIME FOR THE FINAL ASSIGNMENT(CLICK BELOW)**
 
-[<img alt="start here" width="250px" src="../../images/contracts.png" />](../3.Assignment/Final-Assignment)
+[<img alt="start here" width="250px" src="../../images/contracts.png" />](./Readme.md)
 ---
