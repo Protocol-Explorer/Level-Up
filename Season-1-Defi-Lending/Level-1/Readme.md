@@ -22,30 +22,30 @@ Let's get started! 💪
 
 2. Syntax: Next, head to the syntax directory to refine your Solidity programming skills. This section is crucial for building a strong coding foundation.
 
-3. Assignment: Finally, advance to the Assignment directory. You can put your knowledge to the test by creating and deploying your own DeFi lending contract with Foundry.
+3. Final-Assignment: Finally, advance to the Final-Assignment directory. You can put your knowledge to the test by creating and deploying your own DeFi lending contract with Foundry.
 
 ### Navigating Each Section
 In each section, you will find instructions on how to tackle that particular activity.
 
 1. For DeFi Fundamentals: start reading (this is to provide you context and general knowledge on defi lending)
 2. Syntax: This will provide you with all of the syntax needed to create this contract and will link to relevant Cyffrin lectures
-3. Contracts: You will find detailed instructions inside every contract's directory on creating the contract for that particular level. This is where we get hands-on with building the defi lending contract in various levels of difficulty
+3. Final Assignment: You will find detailed instructions inside every contract's directory on creating the contract for that particular level. This is where we get hands-on with building the defi lending contract in various levels of difficulty
 
 ## Challenge Levels
 
 ### Level 1: Mastering the Basics in Lending
 
-#### 📚 Directory: `Readings`
+#### 📚 `DeFi-Guide`
 **Objective**: Dive deep into the world of DeFi lending. Here, you'll grasp the core concepts that form the backbone of decentralized lending platforms.
 - Explore how DeFi lending works, understand key terms, and learn about the mechanics behind it.
 - Inside this directory, you'll find comprehensive materials that cover everything from interest rates to risk management in DeFi lending.
 
-#### 💻 Directory: `Syntax`
+#### 💻 `Syntax`
 **Objective**: Hone your Solidity skills. Solidity is the language of Ethereum, and mastering its syntax is key to building robust smart contracts.
 - Brush up on your Solidity syntax and learn about state variables, functions, mappings, and more.
 - We've packed this folder with exercises and examples that will sharpen your coding skills. 
 
-#### 🔧 Directory: `Assignment`
+#### 🔧 Directory: `Final-Assignment`
 **Objective**: Put theory into practice. It's time to get your hands dirty and build your Basic Lending Contract using Foundry!
 - You'll start from scratch, and by the end, you'll have a working DeFi lending smart contract.
 - Follow the instructions within the directory to set up your environment, write your contract, and test it to perfection.

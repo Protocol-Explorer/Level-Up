@@ -171,7 +171,7 @@ Run following command to increment the number using the `increment()` function.
 Passing private keys directly in the terminal from `anvil` is fine. **This is not done for your own wallet**. As you've seen in the Cyfrin course, we have to be careful with our keys and `.env` is fine for a development environment, but for production it's not ok.
 
 Luckily Foundry came with an update and now we can encrypt our keys in Foundry!
-Check this [video]('https://www.youtube.com/watch?v=VQe7cIpaE54') where Patrick explains how to use `cast`.
+Check this [video](https://www.youtube.com/watch?v=VQe7cIpaE54) where Patrick explains how to use `cast`.
 
 Below you will find a step-by-step approach on how to use `cast`.
 Cast command to import your private-key (or create an account)
@@ -208,12 +208,12 @@ history -c
 
 ## Setting up Scroll Sepolia
 First let's add the Scroll network to your metamask.
-Head over to [Chainlist]('https://chainlist.org/?search=scroll&testnets=true') and add Scroll Sepolia testnet to your wallet.
+Head over to [Chainlist](https://chainlist.org/?search=scroll&testnets=true) and add Scroll Sepolia testnet to your wallet.
 
 Check out this quick video on how you can find Scroll Sepolia on chainlist.org
 https://twitter.com/BuildWithScroll/status/1714789104129581454
 
-Now that we've added the network to our MetaMask, [click here]('https://bwarelabs.com/faucets/scroll-testnet') to get some testnet-eth or go to any of the following links and get some testnet-eth for Scroll-Sepolia:
+Now that we've added the network to our MetaMask, [click here](https://bwarelabs.com/faucets/scroll-testnet) to get some testnet-eth or go to any of the following links and get some testnet-eth for Scroll-Sepolia:
 https://bwarelabs.com/faucets/scroll-testnet
 https://scroll.l2scan.co/faucet
 https://www.covalenthq.com/faucet/
@@ -224,7 +224,7 @@ If you run into issues with testnet eth, go to our Telegram discussion group and
 ## Time to Deploy
 Awesome, we have added the Scroll-Testnet and our account is funded. Let's use the cast method to add our MetaMask account to Foundry and deploy to a live testnet.
 
-[Export your private keys]('https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key') from your MetaMask, you will need this later.
+[Export your private keys](https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key) from your MetaMask, you will need this later.
 
 Run the following command, pick a name for your account. I'll call mine `testuser`.
 
@@ -257,9 +257,9 @@ Here are the steps to follow
 1. Go to https://scrollscan.com/register and create an account
 2. Grab the keys from your account
 
-[Here's a quick video]('https://youtu.be/ks9Cj-lP1Tw?t=360') if you want to follow the exact steps for Scroll Sepolia.
+[Here's a quick video](https://youtu.be/ks9Cj-lP1Tw?t=360) if you want to follow the exact steps for Scroll Sepolia.
 
-The steps are also listed out [here]('https://razacodes.hashnode.dev/mastering-foundry-episode-1-getting-started-with-foundry#heading-8-verifying-the-contract').
+The steps are also listed out [here](https://razacodes.hashnode.dev/mastering-foundry-episode-1-getting-started-with-foundry#heading-8-verifying-the-contract).
 
 
 Next we're going to run the following command
@@ -289,4 +289,4 @@ forge verify-contract 0x0213098123 BasicLending \
   ```
 
 
-  [<img alt="foundry exercise" width="250px" src="../../../images/finalAssignment.png" />](../Final-Assignment/Readme.md)
+  [<img alt="foundry exercise" width="250px" src="../../../images/finalAssignment.png" />](README.md)

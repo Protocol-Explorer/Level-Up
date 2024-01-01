@@ -14,7 +14,7 @@ The primary goal of "Level Up" is to enhance your skills and knowledge in a stru
 
 # Challenge Focuses
 
-## Mastering Fundamentals
+## Mastering DeFi
 
 - **Objective**: Learn about the fundamentals through various videos and articles. You'll be able to use this time to get the bigger picture.
 - **Activities**: Review articles and videos for a deeper understanding of lending.
