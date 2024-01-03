@@ -193,7 +193,7 @@ cast wallet list
 
 The command you can run to deploy using `forge create` :
 ```bash
-forge create <CONTRACTNAME> --rpc-url <NETWORK> --account <ACCOUNT-NAME> --interactive
+forge create <CONTRACTNAME> --rpc-url <NETWORK> --account <ACCOUNT-NAME>
 ```
 You will be prompted to enter your password for your account.
 
