@@ -24,4 +24,4 @@ Collateralized borrowing and liquidation are fundamental mechanisms in DeFi lend
 
 Remember, thorough research and risk assessment are crucial before engaging in any collateralized borrowing or lending activities. Carefully review the terms and conditions of each lending protocol, including liquidation thresholds and fees, to make informed decisions.
 
-[<img alt="start here" width="250px" src="../../images/contracts.png" />](./Readme.md)
+[<img alt="start here" width="250px" src="../../images/syntax.png" />](./Syntax.md)
