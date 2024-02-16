@@ -7,11 +7,11 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
+contract Lending is ReentrancyGuard, Ownable {
+
 error TransferFailed();
 error TokenNotAllowed(address token);
 error NeedsMoreThanZero();
-
-contract Lending is ReentrancyGuard, Ownable {
 
 /**
  * @notice Maps tokens to their corresponding Chainlink price feed addresses
