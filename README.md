@@ -33,7 +33,6 @@ The primary goal of "Level Up" is to enhance your skills and knowledge in a stru
 
 ## How to Join
 
-- Join the TG Channel: [https://t.me/protocolexplorer](https://t.me/protocolexplorer)
 - Start the challenge by following instructions in each Level
 - Submit your deployed contracts (tg group for submissions or Twitter)
 
@@ -41,7 +40,6 @@ The primary goal of "Level Up" is to enhance your skills and knowledge in a stru
 
 - Complete each challenge within two weeks.
 - These are individual assignments, but collaboration is highly encouraged.
-- For all announcements, join this channel: [https://t.me/protocolexplorer](https://t.me/protocolexplorer)
 - For discussions, join this Telegram group: [https://t.me/+5mW5gsUKqxQ5ZGYx](https://t.me/+5mW5gsUKqxQ5ZGYx)
 - Share your journey, insights, and achievements using the Telegram group or Twitter.
 - If you would like us to echo your achievements, feel free to tag us: @razacodes @rahatcodes @tonyolendo.
